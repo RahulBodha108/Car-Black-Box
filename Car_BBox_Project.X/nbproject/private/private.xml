@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/ext_eeprom.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/matrix_keypad.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/uart.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/clcd.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/menu.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/matrix_keypad.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/adc.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/ds1307.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/ext_eeprom.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/change_password.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/password.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/store_event.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/imp.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/dashboard.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/view_log.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/ds1307.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/i2c.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/main.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/time.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/key_press.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/i2c.c</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/clcd.h</file>
+            <file>file:/C:/Users/brahu/MPLABXProjects/Car_BBox_Project.X/set_time.c</file>
+        </group>
+    </open-files>
+</project-private>
